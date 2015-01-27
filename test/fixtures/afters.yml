@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  after_notes: MyText
+  score: 9.99
+  user_id: 
+
+two:
+  after_notes: MyText
+  score: 9.99
+  user_id: 
