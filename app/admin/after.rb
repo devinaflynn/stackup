@@ -1,4 +1,5 @@
 ActiveAdmin.register After do
+  permit_params :after_notes, :score
 
 
   # See permitted parameters documentation:
