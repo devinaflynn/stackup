@@ -1,4 +1,5 @@
 ActiveAdmin.register Before do
+  permit_params :before_notes
 
 
   # See permitted parameters documentation:
